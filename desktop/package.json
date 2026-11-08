@@ -2,7 +2,7 @@
   "name": "desktop",
   "private": true,
   "version": "1.0.0",
-  "description": "Professional-grade network telemetry suite for high-precision bandwidth monitoring.",
+  "description": "Professional-grade network telemetry suite for high-precision bandwidth monitoring and analytics.",
   "author": "Shakib Khan <shakibzcv@gmail.com>",
   "type": "module",
   "scripts": {
