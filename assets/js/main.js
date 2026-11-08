@@ -1,10 +1,10 @@
-﻿/**
+/**
  * NSX Monitor - Website Main Script
  * Handles smooth scrolling, dynamic version resolution, installer asset URLs, and OS detection.
  */
 
 const CONFIG = {
-  defaultVersion: '0.1.12',
+  defaultVersion: '1.0.0',
   repoOwner: 'shakibzcv',
   repoName: 'nsx-monitor',
   platforms: {

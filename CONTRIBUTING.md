@@ -1,4 +1,4 @@
-﻿# Contributing to NSX Monitor
+# Contributing to NSX Monitor
 
 Thank you for your interest in contributing to **NSX Monitor**! We welcome community contributions, bug fixes, feature proposals, and documentation improvements.
 

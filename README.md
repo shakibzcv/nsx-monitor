@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="desktop/public/logo.svg" width="80" height="80" alt="NSX Monitor Logo" />
   <h1>NSX Monitor</h1>
   <p><strong>Professional-grade network telemetry suite for high-precision bandwidth monitoring and analytics.</strong></p>
@@ -10,9 +10,9 @@
   </p>
 
   <p>
-    <a href="https://github.com/shakibzcv/nsx-monitor/releases/download/v0.1.12/NSX-Monitor-Windows-0.1.12-Setup.exe"><img src="https://img.shields.io/badge/Windows-Download%20Setup%20.exe-0078D6?logo=windows&logoColor=white" alt="Download Windows" /></a>
-    <a href="https://github.com/shakibzcv/nsx-monitor/releases/download/v0.1.12/NSX-Monitor-Mac-0.1.12-Installer.dmg"><img src="https://img.shields.io/badge/macOS-Download%20.dmg-000000?logo=apple&logoColor=white" alt="Download macOS" /></a>
-    <a href="https://github.com/shakibzcv/nsx-monitor/releases/download/v0.1.12/NSX-Monitor-Linux-0.1.12.AppImage"><img src="https://img.shields.io/badge/Linux-Download%20.AppImage-FCC624?logo=linux&logoColor=black" alt="Download Linux" /></a>
+    <a href="https://github.com/shakibzcv/nsx-monitor/releases/download/v1.0.0/NSX-Monitor-Windows-1.0.0-Setup.exe"><img src="https://img.shields.io/badge/Windows-Download%20Setup%20.exe-0078D6?logo=windows&logoColor=white" alt="Download Windows" /></a>
+    <a href="https://github.com/shakibzcv/nsx-monitor/releases/download/v1.0.0/NSX-Monitor-Mac-1.0.0-Installer.dmg"><img src="https://img.shields.io/badge/macOS-Download%20.dmg-000000?logo=apple&logoColor=white" alt="Download macOS" /></a>
+    <a href="https://github.com/shakibzcv/nsx-monitor/releases/download/v1.0.0/NSX-Monitor-Linux-1.0.0.AppImage"><img src="https://img.shields.io/badge/Linux-Download%20.AppImage-FCC624?logo=linux&logoColor=black" alt="Download Linux" /></a>
   </p>
 </div>
 
@@ -33,15 +33,15 @@
 
 ---
 
-## 📥 Downloads (v0.1.12)
+## 📥 Downloads (v1.0.0)
 
 Download the official standalone desktop build for your platform:
 
 | Platform | Architecture | Installer Package | Direct Download Link |
 | :--- | :--- | :--- | :--- |
-|  **Windows** | x64 (Windows 10/11) | `NSX-Monitor-Windows-0.1.12-Setup.exe` | [⬇️ Download .EXE](https://github.com/shakibzcv/nsx-monitor/releases/download/v0.1.12/NSX-Monitor-Windows-0.1.12-Setup.exe) |
-|  **macOS** | Universal (Intel & Apple Silicon) | `NSX-Monitor-Mac-0.1.12-Installer.dmg` | [⬇️ Download .DMG](https://github.com/shakibzcv/nsx-monitor/releases/download/v0.1.12/NSX-Monitor-Mac-0.1.12-Installer.dmg) |
-|  **Linux** | x86_64 AppImage | `NSX-Monitor-Linux-0.1.12.AppImage` | [⬇️ Download .AppImage](https://github.com/shakibzcv/nsx-monitor/releases/download/v0.1.12/NSX-Monitor-Linux-0.1.12.AppImage) |
+|  **Windows** | x64 (Windows 10/11) | `NSX-Monitor-Windows-1.0.0-Setup.exe` | [⬇️ Download .EXE](https://github.com/shakibzcv/nsx-monitor/releases/download/v1.0.0/NSX-Monitor-Windows-1.0.0-Setup.exe) |
+|  **macOS** | Universal (Intel & Apple Silicon) | `NSX-Monitor-Mac-1.0.0-Installer.dmg` | [⬇️ Download .DMG](https://github.com/shakibzcv/nsx-monitor/releases/download/v1.0.0/NSX-Monitor-Mac-1.0.0-Installer.dmg) |
+|  **Linux** | x86_64 AppImage | `NSX-Monitor-Linux-1.0.0.AppImage` | [⬇️ Download .AppImage](https://github.com/shakibzcv/nsx-monitor/releases/download/v1.0.0/NSX-Monitor-Linux-1.0.0.AppImage) |
 
 > 💡 **Looking for previous versions or checksums?** Visit the [GitHub Releases](https://github.com/shakibzcv/nsx-monitor/releases) page.
 

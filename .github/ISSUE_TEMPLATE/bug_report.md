@@ -20,7 +20,7 @@ A clear and concise description of what you expected to happen.
 
 **Environment (please complete the following information):**
  - OS: [e.g. Windows 11, macOS Sequoia, Ubuntu 22.04]
- - App Version: [e.g. v0.1.12]
+ - App Version: [e.g. v1.0.0]
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
